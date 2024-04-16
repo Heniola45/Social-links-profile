@@ -1,0 +1,136 @@
+body {
+    background-color: hsl(0, 0%, 8%);
+}
+
+.card-img-top {
+    width: 70px; 
+    height: 70px;
+    border-radius: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 32px;   
+}
+
+.card {
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 16px;
+    width: 300px;
+    padding-bottom: 32px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.profile-name {
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    font-family: inter;
+    font-family: 700;
+    font-size: 20px;
+    margin-top: 16px;
+}
+
+.location {
+    color: hsl(75, 94%, 57%);
+    font-size: 12px;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
+.card-text {
+    color: hsl(0, 0%, 100%);
+    font-size: 11px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 8px;
+}
+
+.card-body {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.link1 {
+    background-color: hsl(0, 0%, 20%);
+    border: none;
+    font-weight: bold;
+    font-size: 12px;
+    color: hsl(0, 0%, 100%);
+    border-radius: 8px;
+    padding: 8px 48px;
+    text-align: center;
+    display: block;
+    margin-left: 24px;
+    margin-right: 24px;
+    pointer-events: none;    
+}
+
+.link2 {
+    background-color: hsl(0, 0%, 20%);
+    border: none;
+    font-weight: bold;
+    font-size: 12px;
+    color: hsl(0, 0%, 100%);
+    border-radius: 8px;
+    padding: 8px 48px;
+    text-align: center;
+    display: block;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 16px;
+    pointer-events: none;    
+}
+
+.link3 {
+    background-color: hsl(0, 0%, 20%);
+    border: none;
+    font-weight: bold;
+    font-size: 12px;
+    color: hsl(0, 0%, 100%);
+    border-radius: 8px;
+    padding: 8px 48px;
+    text-align: center;
+    display: block;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 16px;
+    pointer-events: none;    
+}
+
+.link4 {
+    background-color: hsl(0, 0%, 20%);
+    border: none;
+    font-weight: bold;
+    font-size: 12px;
+    color: hsl(0, 0%, 100%);
+    border-radius: 8px;
+    padding: 8px 48px;
+    text-align: center;
+    display: block;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 16px;
+    pointer-events: none;    
+}
+
+.link5 {
+    background-color: hsl(0, 0%, 20%);
+    border: none;
+    font-weight: bold;
+    font-size: 12px;
+    color: hsl(0, 0%, 100%);
+    border-radius: 8px;
+    padding: 8px 48px;
+    text-align: center;
+    display: block;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 16px;
+    pointer-events: none;    
+}
